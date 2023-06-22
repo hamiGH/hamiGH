@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 ![Hamed Gholami's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiGH&theme=dark&show_icons=true)
 
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=vahidalizadeh&theme=radical&hide_border=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamiGH&theme=radical&hide_border=false)<br/>
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=hamiGH&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)<br/>
 
