@@ -114,8 +114,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="left">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>###GitHub Stats:</b></i></p>
+<!-- <p align="left"> -->
+<!--  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>###GitHub Stats:</b></i></p> -->
 ### 📊GitHub Stats :
 
 <!-- ![Hamed Gholami's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiGH&theme=dark&show_icons=true) -->
