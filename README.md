@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">**Connect with me** 🤝 </h3>
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
 
 </p>
 
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Programming Languages 🛠:
 
@@ -77,9 +78,9 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,docker,java,cpp,discord,git,github,html,idea,js,linux,mongodb,mysql,nodejs,postman,vscode"/>
 </p>
 
-### 🌐Socials
+<!-- ### 🌐Socials -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/hamed-gholami-139004150/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/hamed-gholami-139004150/) -->
 
 ### 🏆GitHub Trophies
 
