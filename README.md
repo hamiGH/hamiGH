@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"m0kht4r/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,git,java,cpp"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,docker,java,cpp,discord,git,github,html,idea,js,linux,mongodb,mysql,nodejs,postman,vscode"/>
 </p>
 
 ### 🌐Socials
