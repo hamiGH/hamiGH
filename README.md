@@ -70,8 +70,10 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/java--v2.png"/>
-
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=c\#"/>
 </p>
 
 ### 🛠 Frameworks:
