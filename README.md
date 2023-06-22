@@ -124,5 +124,6 @@ Here are some ideas to get you started:
 
 | ![Hamed Gholami's github stats](https://github-readme-stats.vercel.app/api?username=hamiGH&show_icons=true&theme=tokyonight) | ![Hamed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamiGH&theme=tokyonight) |
 | --- | --- |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiGH&theme=tokyonight)
 
 
