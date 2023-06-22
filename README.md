@@ -10,7 +10,7 @@
 
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
-
+<img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
 My name is **`Hamed Gholami`**, and I am an experienced data scientist with a passion for leveraging technology to solve complex problems. I've worked on a range of projects, including AI-based financial market trading, speech processing, text processing, NLP, and gaming server development, . With expertise in a variety of languages and tools, I'm always seeking new challenges and opportunities to make a positive impact in the world.
 
 <!--
@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Deep Learning, Financial Trading, Speech Processing, NLP, AI...
 
-## Languages and Tools 🛠:
+### Programming Languages 🛠:
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://skillicons.dev/icons?i=keras"/>
+<!-- <img src="https://skillicons.dev/icons?i=keras"/> -->
 <img src="https://skillicons.dev/icons?i=pytorch"/>
 <img src="https://skillicons.dev/icons?i=flask"/>
 <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,docker,java,cpp,discord,git,github,html,idea,js,linux,mongodb,mysql,nodejs,postman,vscode"/>
 </p>
 
-## 🌐Socials
+### 🌐Socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/hamed-gholami-139004150/)
 
