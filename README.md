@@ -71,22 +71,35 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 <img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
 <img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
 <img src="https://skillicons.dev/icons?i=cs"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=matlab"/>
 <img src="https://skillicons.dev/icons?i=bash"/>
 </p>
 
-### 🛠 Frameworks:
+### 🛠 Frameworks and Tools:
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 <!-- <img src="https://skillicons.dev/icons?i=keras"/> -->
 <img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 <img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,docker,java,cpp,discord,git,github,html,idea,js,linux,mongodb,mysql,nodejs,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+<img src="https://skillicons.dev/icons?i=rabbitmq"/>
+
+<img src="https://skillicons.dev/icons?i=vim"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+
 </p>
 
 <!-- ### 🌐Socials -->
