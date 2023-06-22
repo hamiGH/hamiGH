@@ -2,8 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=hamiGH&label=Visitors+Count&color=red&style=flat-square)
 
 
-### Hi there 👋
 <img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
+
+### Hi there 👋
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
