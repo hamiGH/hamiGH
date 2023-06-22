@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Deep Learning, Financial Trading, Speech Processing, NLP, AI...
 
+## Languages and Tools 🛠:
+
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"m0kht4r/>
+
 ### 🌐Socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/hamed-gholami-139004150/)
