@@ -11,7 +11,7 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm **`Hamed Gholami`**
+My name is **`Hamed Gholami`**, and I am an experienced data scientist with a passion for leveraging technology to solve complex problems. I've worked on a range of projects, including AI-based financial market trading, speech processing, text processing, NLP, and gaming server development, . With expertise in a variety of languages and tools, I'm always seeking new challenges and opportunities to make a positive impact in the world.
 
 <!--
 **hamiGH/hamiGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
