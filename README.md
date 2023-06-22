@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## Languages and Tools 🛠:
 
 <p>
-<img src="https://img.icons8.com/color/48/000000/python--v2.png"m0kht4r/>
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,docker,java,cpp,discord,git,github,html,idea,js,linux,mongodb,mysql,nodejs,postman,vscode"/>
 </p>
 
