@@ -116,10 +116,12 @@ Here are some ideas to get you started:
 
 ### 📊GitHub Stats :
 
-![Hamed Gholami's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiGH&theme=dark&show_icons=true)
+<!-- ![Hamed Gholami's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiGH&theme=dark&show_icons=true) -->
 
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hamiGH&theme=radical&hide_border=false)<br/> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hamiGH&theme=radical&hide_border=false)<br/>
+<!-- ![](http://github-readme-streak-stats.herokuapp.com?user=hamiGH&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)<br/> -->
 
-![](http://github-readme-streak-stats.herokuapp.com?user=hamiGH&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)<br/>
+| ![Hamed Gholami's github stats](https://github-readme-stats.vercel.app/api?username=hamiGH&show_icons=true&theme=tokyonight) | ![Hamed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+
 
