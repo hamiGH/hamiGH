@@ -69,10 +69,15 @@ Here are some ideas to get you started:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### Programming Languages 🛠:
+### 🛠 Programming Languages:
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+</p>
+
+### 🛠 Frameworks:
+
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 <!-- <img src="https://skillicons.dev/icons?i=keras"/> -->
 <img src="https://skillicons.dev/icons?i=pytorch"/>
