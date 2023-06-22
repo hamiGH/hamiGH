@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences <a href="https://github.com/hamiGH/hamiGH/blob/main/hamed_gholami_resume.pdf" target="blank">**Resume**</a>
 
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
