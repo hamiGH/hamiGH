@@ -31,3 +31,17 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/hamed-gholami-139004150/)
 
+### 🏆GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=hamiGH&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+### 📊GitHub Stats :
+
+
+![Hamed Gholami's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiGH&theme=dark&show_icons=true)
+
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=vahidalizadeh&theme=radical&hide_border=false)<br/> -->
+
+![](http://github-readme-streak-stats.herokuapp.com?user=hamiGH&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)<br/>
+
