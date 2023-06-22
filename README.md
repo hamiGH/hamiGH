@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Practical Data Science on the AWS.
 
+- :nerd_face: Always `learning new things`.
+
 - 👯 I’m looking to collaborate on AI advancements.
 
 - 💬 Ask me about Deep Learning, Financial Trading, Speech Processing, NLP, AI...
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 20px;"  target="_blank" href="https://www.linkedin.com/in/hamed-gholami-139004150/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/hamed-gholami-139004150/">
             <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="hamed.gholami9@gmail.com">
 		    <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png"></a>
