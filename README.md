@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Deep Learning, Financial Trading, Speech Processing, NLP, AI...
 
-- 📄 Know about my experiences <a href="https://github.com/hamiGH/hamiGH/blob/main/hamed_gholami_resume.pdf" target="blank">**Resume**</a>
+- 📄 Know about my experiences <a href="https://github.com/hamiGH/hamiGH/blob/main/hamed_gholami_resume.pdf" target="blank">Resume</a>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
