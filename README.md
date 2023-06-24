@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=qJFWpdxd9kI"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🛠 Programming Languages:
 
@@ -106,13 +106,13 @@ Here are some ideas to get you started:
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/hamed-gholami-139004150/) -->
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=qJFWpdxd9kI"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🏆GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=hamiGH&theme=darkhub&no-frame=true&no-bg=false&margin-w=0)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=qJFWpdxd9kI"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- <p align="left"> -->
 <!--  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>###GitHub Stats:</b></i></p> -->
