@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://skillicons.dev/icons?i=c"/> -->
 <!-- <img src="https://skillicons.dev/icons?i=cpp"/> -->
 <img src="https://skillicons.dev/icons?i=cs"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<!-- <img src="https://skillicons.dev/icons?i=nodejs"/> -->
 <img src="https://skillicons.dev/icons?i=matlab"/>
 <img src="https://skillicons.dev/icons?i=bash"/>
 </p>
