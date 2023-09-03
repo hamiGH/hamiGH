@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on AI advancements.
 
-- 💬 Ask me about Deep Learning, Financial Trading, Speech Processing, NLP, AI...
+- 💬 Ask me about Deep Learning, Financial Trading, Speech Processing, NLP, Computer Vision...
 
 - 📄 Know about my experiences <a href="https://github.com/hamiGH/hamiGH/blob/main/hamed_gholami_resume.pdf" target="blank">**Resume**</a>
 
