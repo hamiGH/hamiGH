@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 <!-- 		    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> -->
 <!-- 		<a style="margin-left: 10px;" target="_blank" href=""> -->
 <!--             <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/hamiGH/hamiGH/blob/main/hamed_gholami_resume.pdf">
-            <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+<!-- 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/hamiGH/hamiGH/blob/main/hamed_gholami_resume.pdf"> -->
+<!--            <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a> -->
       </div>
 
 </p>
