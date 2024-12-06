@@ -86,7 +86,6 @@ Here are some ideas to get you started:
 <!-- <img src="https://skillicons.dev/icons?i=keras"/> -->
 <img src="https://skillicons.dev/icons?i=pytorch"/>
 <img src="https://skillicons.dev/icons?i=aws"/>
-<img src="https://skillicons.dev/icons?i=mlflow"/>
 
 <img src="https://skillicons.dev/icons?i=postgres"/>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
